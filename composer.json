@@ -1,10 +1,10 @@
 {
-  "name": "milanlempera/php-sandbox",
+  "name": "jiripavlicek/2048-php",
   "description": "Description of project phpSandbox.",
   "authors": [
     {
-      "name": "milanlempera",
-      "email": "milanlempera@gmail.com"
+      "name": "Jiri Pavlicek",
+      "email": "jiri@pavlicek.cz"
     }
   ],
   "require": {
